@@ -1,3 +1,3 @@
 # Technologies
-React Nodejs Bootstrap HTML CSS
+React, Nodejs, Bootstrap, HTML, CSS
 
